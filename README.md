@@ -17,6 +17,13 @@ bird_palette("WoodPigeon")\
 pal <- bird_palette("WoodPigeon", 21, type = "continuous")
 
 # Available palettes
+<p align="center">
+  <img width="500" height="330" src="https://github.com/lauriebelch/BirdBrewer/blob/master/notebook/images/BlueTit.jpg">
+</p>
+<p align="center">
+  <img width="500" height="330" src="https://github.com/lauriebelch/BirdBrewer/blob/master/notebook/images/BlueTit_pal.jpeg">
+</p>
+
 
   Kingfisher
   BlueTit
