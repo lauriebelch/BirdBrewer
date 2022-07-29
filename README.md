@@ -1,16 +1,23 @@
 # BirdBrewer
+
 Colour palettes based on BIRDS
 
-### colours selected with Adobe Color using 'Extract Theme' & 'Colorful' theme
-## available at https://color.adobe.com/create/image
+Code based entirely on the fantastic [wesanderson]([https://github.com/karthik/wesanderson]) and [MetBrewer]([https://github.com/BlakeRMills/MetBrewer]) packages
 
-### images download from unsplah (freely-usable images)
-## available at https://unsplash.com/
+Colours selected with [Adobe Color]([https://color.adobe.com/create/image]) using 'Extract Theme' & 'Colorful' theme
 
-### code based on R package 'wesanderson'
-## available at https://github.com/karthik/wesanderson
+Images downloaded from [unsplash]([https://unsplash.com/])
 
-# available palettes
+# How to install
+install.packages("devtools")
+devtools::install_github("lauriebelch/BirdBrewer")
+
+# How to use 
+bird_palette("WoodPigeon")
+pal <- bird_palette("WoodPigeon", 21, type = "continuous")
+
+# Available palettes
+
   Kingfisher
   BlueTit
   ChafFinch
@@ -26,3 +33,4 @@ Colour palettes based on BIRDS
   Shoveller
   Sparrowhawk
   WoodPigeon
+
