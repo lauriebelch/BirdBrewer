@@ -9,7 +9,7 @@ Colours selected with [Adobe Color](https://color.adobe.com/create/image) using 
 Images downloaded from [unsplash](https://unsplash.com/)
 
 # How to install
-install.packages("devtools")
+install.packages("devtools")\
 devtools::install_github("lauriebelch/BirdBrewer")
 
 # How to use 
