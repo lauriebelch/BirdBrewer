@@ -93,4 +93,9 @@ bird_palette("WoodPigeon")
   <img width="500" height="330" src="https://github.com/lauriebelch/BirdBrewer/blob/master/notebook/images/WoodPigeon.jpeg">
 </p>
 
+# Example plot
+Using the Kingfisher palette
+<p align="center">
+  <img width="600" height="600" src="https://github.com/lauriebelch/BirdBrewer/blob/master/notebook/images/GGPLOT.jpeg">
+</p>
 
