@@ -21,7 +21,10 @@ pal <- bird_palette("WoodPigeon", 21, type = "continuous")
   <img width="500" height="330" src="https://github.com/lauriebelch/BirdBrewer/blob/master/notebook/images/BlueTit.jpg">
   <img width="500" height="330" src="https://github.com/lauriebelch/BirdBrewer/blob/master/notebook/images/BlueTit.jpeg">
 </p>
-
+<p align="center">
+  <img width="500" height="330" src="https://github.com/lauriebelch/BirdBrewer/blob/master/notebook/images/KingFisher.jpg">
+  <img width="500" height="330" src="https://github.com/lauriebelch/BirdBrewer/blob/master/notebook/images/Kingfisher.jpeg">
+</p>
 
 
   Kingfisher
