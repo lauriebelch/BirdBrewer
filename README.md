@@ -19,7 +19,7 @@ pal <- bird_palette("WoodPigeon", 21, type = "continuous")
 # Available palettes
 <p align="center">
   <img width="500" height="330" src="https://github.com/lauriebelch/BirdBrewer/blob/master/notebook/images/BlueTit.jpg">
-  <img width="500" height="330" src="https://github.com/lauriebelch/BirdBrewer/blob/master/notebook/images/BlueTit_pal.jpeg">
+  <img width="500" height="330" src="https://github.com/lauriebelch/BirdBrewer/blob/master/notebook/images/BlueTit.jpeg">
 </p>
 
 
