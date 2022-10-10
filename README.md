@@ -13,6 +13,7 @@ install.packages("devtools")\
 devtools::install_github("lauriebelch/BirdBrewer")
 
 # How to use 
+library(BirdBrewer)
 bird_palette("WoodPigeon")\
 pal <- bird_palette("WoodPigeon", 21, type = "continuous")
 
