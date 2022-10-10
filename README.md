@@ -8,6 +8,8 @@ Colours selected with [Adobe Color](https://color.adobe.com/create/image) using 
 
 Images downloaded from [unsplash](https://unsplash.com/)
 
+All palettes are colorblind-safe according to [chroma.js](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)
+
 # How to install
 install.packages("devtools")\
 devtools::install_github("lauriebelch/BirdBrewer")
